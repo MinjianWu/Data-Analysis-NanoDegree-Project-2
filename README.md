@@ -13,7 +13,7 @@ To gain insights from the datasets, we will ask the following questions and we w
 
 - What features are most associated with the highest profile state in guns?
 
-* Python packages utilised in this study:
+Python packages utilised in this study:
 
 import pandas as pd
 
