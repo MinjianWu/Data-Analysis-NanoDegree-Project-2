@@ -7,13 +7,13 @@ The gun data comes from the FBI's NICS (National Instant Criminal Background Che
 
 To gain insights from the datasets, we will ask the following questions and we will clean and analyse our data to try to answer them in the end of the report:
 
-Which states have been most profilic in gun numbers over the years?
+- Which states have been most profilic in gun numbers over the years?
 
-What census data are most associated with high gun per capita?
+- What census data are most associated with high gun per capita?
 
-What features are most associated with the highest profile state in guns?
+- What features are most associated with the highest profile state in guns?
 
-Python packages utilised in this study:
+* Python packages utilised in this study:
 
 import pandas as pd
 
